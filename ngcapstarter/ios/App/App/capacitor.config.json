@@ -1,1 +1,11 @@
-{}
+{
+	"appId": "com.example.app",
+	"appName": "ngcapstarter",
+	"webDir": "dist/ngcapstarter",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
